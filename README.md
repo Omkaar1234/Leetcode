@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Omkaar1234/Leetcode/tree/master/0015-3sum) |
 | [0733-flood-fill](https://github.com/Omkaar1234/Leetcode/tree/master/0733-flood-fill) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Omkaar1234/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Depth-First Search
@@ -70,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Omkaar1234/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Omkaar1234/Leetcode/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Omkaar1234/Leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
