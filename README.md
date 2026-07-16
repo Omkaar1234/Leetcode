@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Omkaar1234/Leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Omkaar1234/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0733-flood-fill](https://github.com/Omkaar1234/Leetcode/tree/master/0733-flood-fill) |
+| [0909-snakes-and-ladders](https://github.com/Omkaar1234/Leetcode/tree/master/0909-snakes-and-ladders) |
 | [1288-remove-covered-intervals](https://github.com/Omkaar1234/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Omkaar1234/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Omkaar1234/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Omkaar1234/Leetcode/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/Omkaar1234/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/Omkaar1234/Leetcode/tree/master/0733-flood-fill) |
+| [0909-snakes-and-ladders](https://github.com/Omkaar1234/Leetcode/tree/master/0909-snakes-and-ladders) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Omkaar1234/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Omkaar1234/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Omkaar1234/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Omkaar1234/Leetcode/tree/master/0733-flood-fill) |
+| [0909-snakes-and-ladders](https://github.com/Omkaar1234/Leetcode/tree/master/0909-snakes-and-ladders) |
 ## Hash Table
 |  |
 | ------- |
