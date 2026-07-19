@@ -1,0 +1,21 @@
+class Solution {
+public:
+    bool isAnagram(string s, string t) {
+        vector<int>freq(26,0);
+
+        for(char ch : s){
+            freq[ch-'a']++;
+        }
+
+        for(char ch : t){
+            if(freq[ch-'a'] == 0) return false;
+            freq[ch-'a']--;
+        }
+
+        for(int x : freq){
+            if(x > 0) return false;
+        }
+
+        return true;
+    }
+};
