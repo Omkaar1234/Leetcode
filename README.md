@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Omkaar1234/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/Omkaar1234/Leetcode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Omkaar1234/Leetcode/tree/master/0133-clone-graph) |
+| [0242-valid-anagram](https://github.com/Omkaar1234/Leetcode/tree/master/0242-valid-anagram) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Omkaar1234/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Omkaar1234/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
@@ -124,11 +125,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Omkaar1234/Leetcode/tree/master/0015-3sum) |
+| [0242-valid-anagram](https://github.com/Omkaar1234/Leetcode/tree/master/0242-valid-anagram) |
 | [1288-remove-covered-intervals](https://github.com/Omkaar1234/Leetcode/tree/master/1288-remove-covered-intervals) |
 ## String
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Omkaar1234/Leetcode/tree/master/0127-word-ladder) |
+| [0242-valid-anagram](https://github.com/Omkaar1234/Leetcode/tree/master/0242-valid-anagram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Omkaar1234/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Binary Search
 |  |
