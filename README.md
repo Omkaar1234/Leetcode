@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Omkaar1234/Leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Omkaar1234/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Omkaar1234/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/Omkaar1234/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Omkaar1234/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/Omkaar1234/Leetcode/tree/master/0733-flood-fill) |
 | [0909-snakes-and-ladders](https://github.com/Omkaar1234/Leetcode/tree/master/0909-snakes-and-ladders) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Omkaar1234/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Omkaar1234/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Graph Theory
 |  |
