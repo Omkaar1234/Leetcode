@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Omkaar1234/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Omkaar1234/Leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Omkaar1234/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Omkaar1234/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Omkaar1234/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/Omkaar1234/Leetcode/tree/master/0733-flood-fill) |
 | [0909-snakes-and-ladders](https://github.com/Omkaar1234/Leetcode/tree/master/0909-snakes-and-ladders) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Omkaar1234/Leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Omkaar1234/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Omkaar1234/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Omkaar1234/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Omkaar1234/Leetcode/tree/master/0015-3sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Omkaar1234/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Omkaar1234/Leetcode/tree/master/0242-valid-anagram) |
 | [1288-remove-covered-intervals](https://github.com/Omkaar1234/Leetcode/tree/master/1288-remove-covered-intervals) |
 ## String
@@ -179,9 +182,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Omkaar1234/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Omkaar1234/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Simulation
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Omkaar1234/Leetcode/tree/master/1260-shift-2d-grid) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Omkaar1234/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
