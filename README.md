@@ -231,4 +231,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Omkaar1234/Leetcode/tree/master/0739-daily-temperatures) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Omkaar1234/Leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Omkaar1234/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
