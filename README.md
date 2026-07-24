@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Omkaar1234/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Omkaar1234/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Omkaar1234/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Omkaar1234/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Omkaar1234/Leetcode/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/Omkaar1234/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Omkaar1234/Leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Omkaar1234/Leetcode/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/Omkaar1234/Leetcode/tree/master/0242-valid-anagram) |
@@ -251,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Omkaar1234/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Omkaar1234/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
