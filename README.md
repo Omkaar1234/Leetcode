@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Omkaar1234/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Omkaar1234/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Omkaar1234/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0645-set-mismatch](https://github.com/Omkaar1234/Leetcode/tree/master/0645-set-mismatch) |
 | [0733-flood-fill](https://github.com/Omkaar1234/Leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Omkaar1234/Leetcode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Omkaar1234/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Omkaar1234/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/Omkaar1234/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Omkaar1234/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0645-set-mismatch](https://github.com/Omkaar1234/Leetcode/tree/master/0645-set-mismatch) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Omkaar1234/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Omkaar1234/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Omkaar1234/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Omkaar1234/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Omkaar1234/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0645-set-mismatch](https://github.com/Omkaar1234/Leetcode/tree/master/0645-set-mismatch) |
 | [1288-remove-covered-intervals](https://github.com/Omkaar1234/Leetcode/tree/master/1288-remove-covered-intervals) |
 ## String
 |  |
@@ -269,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Omkaar1234/Leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/Omkaar1234/Leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Omkaar1234/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Omkaar1234/Leetcode/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
