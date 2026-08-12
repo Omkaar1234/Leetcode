@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Omkaar1234/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1631-path-with-minimum-effort](https://github.com/Omkaar1234/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Omkaar1234/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Omkaar1234/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Omkaar1234/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Omkaar1234/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Omkaar1234/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Omkaar1234/Leetcode/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Omkaar1234/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0645-set-mismatch](https://github.com/Omkaar1234/Leetcode/tree/master/0645-set-mismatch) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Omkaar1234/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Omkaar1234/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Omkaar1234/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Omkaar1234/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Omkaar1234/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Omkaar1234/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Backtracking
 |  |
 | ------- |
