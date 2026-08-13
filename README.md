@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Omkaar1234/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Omkaar1234/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0645-set-mismatch](https://github.com/Omkaar1234/Leetcode/tree/master/0645-set-mismatch) |
+| [0654-maximum-binary-tree](https://github.com/Omkaar1234/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0733-flood-fill](https://github.com/Omkaar1234/Leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Omkaar1234/Leetcode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Omkaar1234/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Omkaar1234/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Omkaar1234/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Omkaar1234/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0654-maximum-binary-tree](https://github.com/Omkaar1234/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0973-k-closest-points-to-origin](https://github.com/Omkaar1234/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Omkaar1234/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Omkaar1234/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Omkaar1234/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Omkaar1234/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0654-maximum-binary-tree](https://github.com/Omkaar1234/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Omkaar1234/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Omkaar1234/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Omkaar1234/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Omkaar1234/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0654-maximum-binary-tree](https://github.com/Omkaar1234/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Omkaar1234/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## String Matching
 |  |
@@ -275,10 +279,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Omkaar1234/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Omkaar1234/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Omkaar1234/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0654-maximum-binary-tree](https://github.com/Omkaar1234/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/Omkaar1234/Leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0654-maximum-binary-tree](https://github.com/Omkaar1234/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/Omkaar1234/Leetcode/tree/master/0739-daily-temperatures) |
 ## Linked List
 |  |
@@ -333,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Omkaar1234/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Omkaar1234/Leetcode/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
