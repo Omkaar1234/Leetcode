@@ -12,7 +12,7 @@
 class Solution {
 public:
     TreeNode* helper(int l, int r, vector<int>&nums){
-        if(l >= nums.size() || r < 0 || l > r) return NULL;
+        if(l > r) return NULL;
 
         int maxIdx = l;
         for(int i=l; i<=r; i++){
