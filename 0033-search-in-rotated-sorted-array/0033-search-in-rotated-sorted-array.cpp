@@ -16,7 +16,7 @@ public:
                 }else{
                     end = mid-1;
                 }
-            }else if(nums[mid] >= nums[st]){
+            }else{
                 if(nums[st] <= target && target < nums[mid]){
                     end = mid-1;
                 }else{
