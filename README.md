@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Omkaar1234/Leetcode/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Omkaar1234/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Omkaar1234/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Omkaar1234/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Omkaar1234/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Omkaar1234/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Omkaar1234/Leetcode/tree/master/0283-move-zeroes) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Omkaar1234/Leetcode/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Omkaar1234/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Omkaar1234/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Omkaar1234/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Omkaar1234/Leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Omkaar1234/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Omkaar1234/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Omkaar1234/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/Omkaar1234/Leetcode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Omkaar1234/Leetcode/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/Omkaar1234/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Omkaar1234/Leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Omkaar1234/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Omkaar1234/Leetcode/tree/master/0322-coin-change) |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Omkaar1234/Leetcode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Omkaar1234/Leetcode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Omkaar1234/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/Omkaar1234/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Omkaar1234/Leetcode/tree/master/0733-flood-fill) |
@@ -181,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Omkaar1234/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Omkaar1234/Leetcode/tree/master/0200-number-of-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Omkaar1234/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Omkaar1234/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Omkaar1234/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
