@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0178-rank-scores](https://github.com/Omkaar1234/Leetcode/tree/master/0178-rank-scores) |
+| [0184-department-highest-salary](https://github.com/Omkaar1234/Leetcode/tree/master/0184-department-highest-salary) |
 | [0577-employee-bonus](https://github.com/Omkaar1234/Leetcode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Omkaar1234/Leetcode/tree/master/0584-find-customer-referee) |
 | [1068-product-sales-analysis-i](https://github.com/Omkaar1234/Leetcode/tree/master/1068-product-sales-analysis-i) |
