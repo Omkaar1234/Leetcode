@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/Omkaar1234/Leetcode/tree/master/0176-second-highest-salary) |
 | [0178-rank-scores](https://github.com/Omkaar1234/Leetcode/tree/master/0178-rank-scores) |
 | [0184-department-highest-salary](https://github.com/Omkaar1234/Leetcode/tree/master/0184-department-highest-salary) |
 | [0577-employee-bonus](https://github.com/Omkaar1234/Leetcode/tree/master/0577-employee-bonus) |
