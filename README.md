@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Omkaar1234/Leetcode/tree/master/0062-unique-paths) |
 | [0973-k-closest-points-to-origin](https://github.com/Omkaar1234/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Omkaar1234/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Omkaar1234/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Omkaar1234/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Omkaar1234/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Omkaar1234/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Omkaar1234/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Depth-First Search
 |  |
 | ------- |
