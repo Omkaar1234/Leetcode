@@ -16,11 +16,7 @@ public:
         vector<vector<string>>ans;
 
         for(auto &p : m){
-            vector<string>temp;
-            for(auto s : p.second){
-                temp.push_back(s);
-            }
-            ans.push_back(temp);
+            ans.push_back(p.second);
         }
 
         return ans;
