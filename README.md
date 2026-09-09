@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Omkaar1234/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Omkaar1234/Leetcode/tree/master/0062-unique-paths) |
+| [0152-maximum-product-subarray](https://github.com/Omkaar1234/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/Omkaar1234/Leetcode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Omkaar1234/Leetcode/tree/master/0542-01-matrix) |
 ## Combinatorics
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Omkaar1234/Leetcode/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Omkaar1234/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Omkaar1234/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/Omkaar1234/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/Omkaar1234/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Omkaar1234/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Omkaar1234/Leetcode/tree/master/0238-product-of-array-except-self) |
