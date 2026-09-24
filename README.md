@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Omkaar1234/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Omkaar1234/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Omkaar1234/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Omkaar1234/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/Omkaar1234/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Omkaar1234/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Omkaar1234/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Omkaar1234/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Omkaar1234/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Omkaar1234/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1631-path-with-minimum-effort](https://github.com/Omkaar1234/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Omkaar1234/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
