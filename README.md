@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Omkaar1234/Leetcode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Omkaar1234/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Omkaar1234/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Omkaar1234/Leetcode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Omkaar1234/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Omkaar1234/Leetcode/tree/master/0125-valid-palindrome) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Omkaar1234/Leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Omkaar1234/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Omkaar1234/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Omkaar1234/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -446,4 +448,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Omkaar1234/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Omkaar1234/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
