@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Omkaar1234/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Omkaar1234/Leetcode/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Omkaar1234/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Omkaar1234/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Omkaar1234/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Omkaar1234/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Omkaar1234/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Omkaar1234/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/Omkaar1234/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/Omkaar1234/Leetcode/tree/master/0739-daily-temperatures) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Omkaar1234/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Omkaar1234/Leetcode/tree/master/0621-task-scheduler) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Omkaar1234/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Omkaar1234/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Knapsack Problem
 |  |
@@ -455,4 +458,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Omkaar1234/Leetcode/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Omkaar1234/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
