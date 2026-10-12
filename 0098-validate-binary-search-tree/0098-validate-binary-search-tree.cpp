@@ -11,25 +11,16 @@
  */
 class Solution {
 public:
-    void helper(TreeNode*root, vector<int>&inorder){
-        if(root == NULL) return;
+    bool isValid(TreeNode*root, long long minVal, long long maxVal){
+        if(root == NULL) return true;
 
-        helper(root->left,inorder);
-        inorder.push_back(root->val);
-        helper(root->right,inorder);
+        if(root->val <= minVal || root->val >= maxVal) return false;
 
-        return;
+        return isValid(root->left, minVal, root->val) && isValid(root->right, root->val, maxVal);
     }
     bool isValidBST(TreeNode* root) {
-        vector<int>inorder;
-        helper(root,inorder);
+        if(root == NULL) return true;
 
-        for(int i=0; i<inorder.size()-1; i++){
-            if(inorder[i] >= inorder[i+1]){
-                return false;
-            }
-        }
-
-        return true;
+        return isValid(root, LLONG_MIN, LLONG_MAX);
     }
 };
